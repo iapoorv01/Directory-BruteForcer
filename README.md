@@ -24,7 +24,7 @@ To use `Directory-BruteForcer`, ensure that you have Python installed on your ma
 1. Open the `Directory-BruteForcer.py` file in your terminal or IDE.
 2. Run the script and provide the target website URL:
    ```
-   python Directory-BruteForcer.py <website-url>
+   python directories.py 
    ```
 3. The script will begin searching for hidden directories using common directory names and patterns.
 
