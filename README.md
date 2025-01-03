@@ -17,7 +17,7 @@ This tool is intended for use in **authorized, controlled environments** or with
 To use `Directory-BruteForcer`, ensure that you have Python installed on your machine. Clone the repository and install the required dependencies:
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/iapoorv01/Directory-BruteForcer.git
    ```
 
 ### Usage
